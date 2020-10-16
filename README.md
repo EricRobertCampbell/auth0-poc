@@ -13,7 +13,7 @@
 	- [ ] Make unsecured API calls
 	- [ ] Make secured API calls
 - [ ] Backend:
-	- [ ] Basic setup
+	- [X] Basic setup
 	- [ ] Create graphql route
 	- [ ] Accept and return unverified requests
 	- [ ] Accept JWTs from the frontend
